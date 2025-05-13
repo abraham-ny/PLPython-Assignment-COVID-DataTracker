@@ -17,3 +17,4 @@ This project is a global data tracker for COVID-19. It fetches real-time data, p
 
 ### ▶️ **How to Run the Project**
 1. Clone the repository:
+2. Run ```Global Data Tracker.py``` file!
